@@ -7,7 +7,7 @@ import News from "./Components/News";
 import About from "./Components/About";
 
 export default class App extends Component {
-  apiKey = process.env.REACT_APP_NEWS_API;
+  apiKey = "b228be4a4dc64ceb90d1c457da0ba75e";
 
   render() {
     return (
